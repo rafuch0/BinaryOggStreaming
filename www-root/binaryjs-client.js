@@ -1,0 +1,1 @@
+../binaryjs-client.js
